@@ -17,3 +17,5 @@ site com um design moderno e elegante.
 
 *Finalizando o curso do B7Web em HTML e CSS sendo este o ultimo site do curso.*
 
+
+- O site está disponivel para visualização em https://mhalvesb.github.io/projetostarbucks/
