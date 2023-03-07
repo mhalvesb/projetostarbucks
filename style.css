@@ -73,7 +73,7 @@ header{
 }
 
 .banner{
-    background-image: url('/assets/images/bg.jpg');
+    background-image: url('assets/images/bg.jpg');
     background-size: cover;
     background-position: center;
     padding: 115px 0px;
@@ -150,7 +150,7 @@ h2{
 }
 
 .area-img1{
-    background-image: url('/assets/images/f1.jpg');
+    background-image: url('assets/images/f1.jpg');
     background-size: cover;
     background-position: center;
     grid-column: 2/3;
@@ -159,7 +159,7 @@ h2{
 
 .area-img2{
     background-color: green;
-    background-image: url('/assets/images/f2.jpg');
+    background-image: url('assets/images/f2.jpg');
     background-size: cover;
     background-position: center;
     height: 347px;
@@ -210,7 +210,7 @@ h2{
 }
 
 .area2-img1{
-    background-image: url('/assets/images/f3.jpg');
+    background-image: url('assets/images/f3.jpg');
     background-size: cover;
     background-position: center;
     grid-column: 1/2;
@@ -218,7 +218,7 @@ h2{
 }
 
 .area2-img2{
-    background-image: url('/assets/images/f4.jpg');
+    background-image: url('assets/images/f4.jpg');
     background-size: cover;
     background-position: center;
     height: 450px;
@@ -228,7 +228,7 @@ h2{
 
 .area3-content{
     padding: 220px 100px 220px 220px;
-    background-image: url('/assets/images/bg2.jpg');
+    background-image: url('assets/images/bg2.jpg');
     background-size: cover;
     background-position: left;
 
@@ -242,7 +242,7 @@ h2{
 
 
 .area3-img{
-    background-image: url('/assets/images/f5.jpg');
+    background-image: url('assets/images/f5.jpg');
 }
 
 .area4{
@@ -252,7 +252,7 @@ h2{
 }
 
 .area4-img1{
-    background-image: url('/assets/images/bg3.jpg');
+    background-image: url('assets/images/bg3.jpg');
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -270,7 +270,7 @@ h2{
 }
 
 .area5{
-    background-image: url('/assets/images/bg4.jpg');
+    background-image: url('assets/images/bg4.jpg');
     background-size: cover;
     background-position: center;
     height: 600px;
